@@ -1,3 +1,4 @@
+# Elora Re:CoM Heartless Colors
 Edits a few Heartless colors to how I like them. Most of them keep their original PS2 colors, but some now have their Final Mix colors, and some are edited slightly. Enemy Cards are unaffected. 
 
 ## Changed Heartless
