@@ -136,6 +136,24 @@ assets:
   package: Recom
   source:
   - name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_01_tm2.dds
+- name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_02_tm2.dds
+- name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_03_tm2.dds
+- name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_04_tm2.dds
 - name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_01_tm2.dds
   method: copy
   platform: pc
@@ -328,3 +346,21 @@ assets:
   package: Recom
   source:
   - name: remastered\NPC\2089\NP2089.RTM\m_ex210_01_tm2.dds
+- name: remastered\NPC\2089\NP2089.RTM\m_ex210_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2089\NP2089.RTM\m_ex210_02_tm2.dds
+- name: remastered\NPC\2089\NP2089.RTM\m_ex210_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2089\NP2089.RTM\m_ex210_03_tm2.dds
+- name: remastered\NPC\2089\NP2089.RTM\m_ex210_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2089\NP2089.RTM\m_ex210_04_tm2.dds
